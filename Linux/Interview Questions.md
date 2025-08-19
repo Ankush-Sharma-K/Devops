@@ -45,7 +45,8 @@ It is an interactive command which will ask all necessary information while crea
 *Asks for the password.  
 *Less suitable to use in scripts.
 
-# 3)Is it possible to reset the password of a User in Linux?
+# 3) Is it possible to restore the old password of a User in Linux? Or
+## You have access to a linux machine can you recover the passwords of all users on that machine.
 All passwords are stored in encrypted form at:
 ```bash
 /etc/shadow
